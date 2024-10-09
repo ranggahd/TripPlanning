@@ -7,4 +7,4 @@
 10122138 - Dimas Seto Prasetyo
   
 Deskripsi Proyek :
-Proyek ini bertujuan untuk membantu mahasiswa merencanakan perjalanan harian mereka dengan memaksimalkan penggunaan anggaran yang efisien untuk transportasi, akomodasi, dan kebutuhan makan
+Proyek ini bertujuan untuk membantu mahasiswa unikom merencanakan perjalanan harian mereka dengan memaksimalkan penggunaan anggaran yang efisien untuk transportasi, akomodasi, dan kebutuhan makan
