@@ -6,4 +6,4 @@
 10122122-  Andre Pamungkas Permana
   
 Deskripsi Proyek
-Trip Planing mahasiswa baru unikom yang merantau dari kota tanggerang - bandung
+Trip Planing berangkat kuliah unikom
