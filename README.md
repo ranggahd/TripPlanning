@@ -6,5 +6,5 @@
 10122122 - Andre Pamungkas Permana
 10122138 - Dimas Seto Prasetyo
   
-Deskripsi Proyek
-Trip Planing berangkat kuliah unikom
+Deskripsi Proyek :
+Proyek ini bertujuan untuk membantu mahasiswa merencanakan perjalanan harian mereka dengan memaksimalkan penggunaan anggaran yang efisien untuk transportasi, akomodasi, dan kebutuhan makan
